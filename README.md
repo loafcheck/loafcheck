@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🚀 I believe that with big ideas, knowledge, and creativity, I can architect informative as well as entertaining web applications!
+
+<iframe src="https://giphy.com/embed/4bAEIAB84zPwc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-working-kitten-4bAEIAB84zPwc">via GIPHY</a></p>
