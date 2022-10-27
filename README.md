@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I believe that with big ideas, knowledge, and creativity, we can architect informative as well as entertaining web applications!
+<!-- 🚀 I believe that with big ideas, knowledge, and creativity, we can architect informative as well as entertaining web applications! -->
