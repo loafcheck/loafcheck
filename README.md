@@ -1,6 +1,6 @@
 <!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
+<img alt="Night Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
 
 ## 👋 &nbsp;Hey there! I'm Rachel
 
@@ -10,15 +10,13 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at rachelskim@gmial.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://notion) for more details about me. I'm open to feedback and suggestions!
+<img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/>
 
 <!-- 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 
-<img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right" height="50%"/>
-
 ### 🛠 &nbsp;Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -32,15 +30,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-indesign)
-<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
-<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
-<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; -->
-<!-- ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
-<!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
-<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
-<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
-<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp; -->
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
