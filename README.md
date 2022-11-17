@@ -12,9 +12,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://notion) for more details about me. I'm open to feedback and suggestions!
 <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/>
 
-<!-- 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
-<!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
