@@ -2,9 +2,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+## 👋 &nbsp;Hey there! I'm Rachel
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🏻‍👩🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
