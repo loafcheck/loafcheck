@@ -13,10 +13,9 @@
 
 <!-- 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
-
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 
-<img alt="Coding" src="https://media.giphy.com/media/URtP2DSmGj8Oqoqe1E/giphy.gif" align="right"/>
+<img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
