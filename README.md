@@ -6,7 +6,8 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, with my deigner background, I love studying UIUX design. 
+📚&nbsp; I have been always interested in education, and have an experience of teaching kindergarten through highschool students. My hobby related to this area is to collect children books.
 ✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://notion) for more details about me. I'm open to feedback and suggestions! -->
 
