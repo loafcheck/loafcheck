@@ -2,15 +2,15 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
 
-## 👋 &nbsp;Hey there! I'm Rachel
+## 👋 &nbsp;Hey there!
 
 ### 👩🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+<!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, with my deigner background, I love studying UIUX design. \
 👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \
-📚 &nbsp;My hobby is to collect children books. \
-✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com! I'll try to respond as soon as I can.\
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://notion) for more details about me. I'm open to feedback and suggestions! -->
+📚 &nbsp;My hobby is to collect children books. \ -->
+✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com!\
+📄 &nbsp;Please have a look at my [Résumé](https://notion) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/>
 
