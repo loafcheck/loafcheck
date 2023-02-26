@@ -32,8 +32,8 @@
 
 <p align="center">
 <a href="https://github.com/loafcheck">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
