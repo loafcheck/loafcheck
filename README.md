@@ -28,14 +28,14 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/loafcheck">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
