@@ -7,10 +7,10 @@
 ### 👩🏻‍💻 &nbsp;About Me
 <!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, with my deigner background, I love studying UIUX design. \
-👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \
-📚 &nbsp;My hobby is to collect children books. \ -->
-✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com!\
+👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \ -->
+📈💰👩🏻‍🏫 &nbsp;My journey encompasses a distinctive blend of experiences—ten years in design, four years as an entrepreneur, and seven years as a tutor—all converging toward coding. A pivotal intersection in my diverse experience was the discovery that any challenges encountered throughout my career could be resolved through programming. \
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1v-UHyKCO0q-tVO4um2qNgj368-S6WV-idO2TfUGzz70/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com!\
 
 <!-- <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/> -->
 
