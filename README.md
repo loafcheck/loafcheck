@@ -10,7 +10,7 @@
 👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \
 📚 &nbsp;My hobby is to collect children books. \ -->
 ✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com!\
-📄 &nbsp;Please have a look at my [Résumé]([https://notion](https://docs.google.com/document/d/1v-UHyKCO0q-tVO4um2qNgj368-S6WV-idO2TfUGzz70/edit?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1v-UHyKCO0q-tVO4um2qNgj368-S6WV-idO2TfUGzz70/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <!-- <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/> -->
 
