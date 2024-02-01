@@ -10,7 +10,7 @@
 👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \ -->
 📈💰👩🏻‍🏫 &nbsp;My journey encompasses a distinctive blend of experiences—ten years in design, four years as an entrepreneur, and seven years as a tutor—all converging toward coding. A pivotal intersection in my diverse experience was the discovery that any challenges encountered throughout my career could be resolved through programming ! \
 ✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com!
-📄 &nbsp;Please have a look at my [Résumé]([https://github.com/loafcheck/loafcheck/blob/main/Resume-Rachel_Kim.pdf](https://static1.squarespace.com/static/65b978d33f8e713ad4c3ece8/t/65baea0f95e7266d44fdaf5d/1706748432001/Resume-Rachel_Kim.pdf) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at my [Résumé](https://static1.squarespace.com/static/65b978d33f8e713ad4c3ece8/t/65baea0f95e7266d44fdaf5d/1706748432001/Resume-Rachel_Kim.pdf) for more details about me. I'm open to feedback and suggestions!\
 
 <!-- <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/> -->
 
