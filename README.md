@@ -9,10 +9,9 @@
 ✍️ &nbsp;In my free time, with my deigner background, I love studying UIUX design. \
 👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \ -->
 📈💰👩🏻‍🏫 &nbsp;I’m a software developer with 4 years of experience running my own fashion business. I frequently worked with software engineers to build websites and develop an app that connects patternmakers with designers. This experience sparked my interest in programming, leading me to to pursue a career as a software developer. I graduated from Likelion, an immersive coding bootcamp. \
-I love transforming different aspects of daily life into coding solutions. My goal is to make a meaningful impact by creating programming solutions that benefit the world!\
+I love transforming different aspects of daily life into coding solutions. My goal is to make a meaningful impact by creating programming solutions that benefit the world!
 
 ✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com! \
-📄 &nbsp;Please have a look at my [Résumé](https://static1.squarespace.com/static/65b978d33f8e713ad4c3ece8/t/65bc3f708f43bc34ec4bb415/1706835824720/Rachel+S+Kim+_+Front-End+Developer.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <!-- <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/> -->
 
