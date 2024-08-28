@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="max-width: 600px; margin: auto;">
 
 ## 👋 &nbsp;Hey there!
 
@@ -32,9 +32,3 @@ These experiences demonstrated how technology creates connections and drives pos
 </div>
 
 </div>
-
-
-
-
-<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-<img alt="Night Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
