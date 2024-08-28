@@ -5,54 +5,32 @@
 ## 👋 &nbsp;Hey there!
 
 ### 👩🏻‍💻 &nbsp;About Me
-<!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✍️ &nbsp;In my free time, with my deigner background, I love studying UIUX design. \
- 👩🏻‍🏫 &nbsp;I have been always interested in education, and have a 5 year experience of teaching. \ -->
 
-<!--📈💰👩🏻‍🏫 &nbsp;I’m a software developer with 4 years of experience running my own fashion business. I frequently worked with software engineers to build websites and develop an app that connects patternmakers with designers. This experience sparked my interest in programming, leading me to to pursue a career as a software developer. I graduated from Likelion, an immersive coding bootcamp.-->
+🌎💻👥 &nbsp; I’m an aspiring software developer with experience managing multiple ventures. I enjoy seeing how technology can connect individuals, revitalize communities, and benefit the world. In my business role, I had the opportunity to connect young designers with older textile factory owners who were technologically inexperienced. This project showed how technology can rejuvenate overlooked generations and foster relationships with young professionals. My commitment to forming bonds was also reflected in my job as an educator. I developed the FLIP project to address the limitations of existing language games, significantly enhancing student engagement as well as creating a more enjoyable learning experience.
 
-📈💰👩🏻‍🏫 &nbsp; I love transforming different aspects of daily life into coding solutions. My goal is to make a meaningful impact by creating programming solutions that benefit the world!
+These experiences demonstrated how technology creates connections and drives positive change, leading me to pursue a full-time career in tech. After completing a six-month Front-end Developer Certification at Likelion, I am determined to be a catalyst for connecting people, generations, and communities!
 
-<!--✉️ &nbsp;You can shoot me an email at rachelskim.contact@gmail.com!-->
+📄 &nbsp;[You can shoot me an email at rachelskim.contact@gmail.com!](https://www.linkedin.com/in/rachelskim16/)
 
-<!-- <img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=adobe-NoSQL)&nbsp;
-![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=adobe-Expressjs)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+<div>
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=adobe-NoSQL" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=adobe-Expressjs" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown" />
+</div>
 
-
-<!-- ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/loafcheck">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=loafcheck&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> -->
-
-<!-- ### 🤝🏻 &nbsp;Connect with Me -->
-
-<!-- 
-<p align="center">
-<a href="https://linkedin.com/in/rachelskim16"><img src="https://img.shields.io/badge/-rachelskim-0A66C2.svg?style=flat&logo=Linkedin&logoColor=white"/></a>-->
-  
-<!-- <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p> -->
-
-<!-- Credits: [Aditya Vikram Singh](https://github.com/AVS1508) -->
