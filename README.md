@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center" style="width: 90%; max-width: 800px; margin: auto;">
+  
 ## 👋 &nbsp;Hey there!
 
 ### 👩🏻‍💻 &nbsp;About Me
