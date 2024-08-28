@@ -13,8 +13,7 @@ I developed the FLIP project to address the limitations of existing language gam
 significantly enhancing student engagement as well as creating a more enjoyable learning experience.<br/>
 
 These experiences demonstrated how technology creates connections and drives positive change, <br/>
-leading me to pursue a full-time career in tech.<br/> 
-After completing a six-month Front-end Developer Certification at Likelion, <br/>
+leading me to pursue a full-time career in tech. After completing a six-month Front-end Developer Certification at Likelion, <br/>
 I am determined to be a catalyst for connecting people, generations, and communities!<br/>
 
 🤓 &nbsp;[Connect with me on LinkedIn!](https://www.linkedin.com/in/rachelskim16/)
