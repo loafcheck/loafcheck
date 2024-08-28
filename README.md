@@ -1,3 +1,4 @@
+<p align="center">
 ## 👋 &nbsp;Hey there!
 
 ### 👩🏻‍💻 &nbsp;About Me
