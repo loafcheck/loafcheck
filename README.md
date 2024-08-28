@@ -4,7 +4,6 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-<div align="left" style="width: 90%; max-width: 800px; margin: auto;">
 🌎💻👥 &nbsp; I’m an aspiring software developer with experience managing multiple ventures.<br/> 
 I enjoy seeing how technology can connect individuals, revitalize communities, and benefit the world.<br/>
 In my business role, I had the opportunity to connect young designers with older textile factory owners <br/>
@@ -17,7 +16,6 @@ significantly enhancing student engagement as well as creating a more enjoyable 
 These experiences demonstrated how technology creates connections and drives positive change, <br/>
 leading me to pursue a full-time career in tech. After completing a six-month Front-end Developer Certification at Likelion, <br/>
 I am determined to be a catalyst for connecting people, generations, and communities!<br/>
-</div>
 
 🤓 &nbsp;[Connect with me on LinkedIn!](https://www.linkedin.com/in/rachelskim16/)
 
