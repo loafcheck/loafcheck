@@ -1,6 +1,4 @@
-<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
+<div align="center">
 
 ## 👋 &nbsp;Hey there!
 
@@ -10,8 +8,7 @@
 
 These experiences demonstrated how technology creates connections and drives positive change, leading me to pursue a full-time career in tech. After completing a six-month Front-end Developer Certification at Likelion, I am determined to be a catalyst for connecting people, generations, and communities!
 
-📄 &nbsp;[You can shoot me an email at rachelskim.contact@gmail.com!](https://www.linkedin.com/in/rachelskim16/)
-
+🤓 &nbsp;[Connect with me on LinkedIn!](https://www.linkedin.com/in/rachelskim16/)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,3 +31,10 @@ These experiences demonstrated how technology creates connections and drives pos
   <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown" />
 </div>
 
+</div>
+
+
+
+
+<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<img alt="Night Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2> -->
