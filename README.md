@@ -1,4 +1,4 @@
-<div align="center" style="max-width: 400px; margin: auto;">
+<div align="center" style="width: 90%; max-width: 800px; margin: auto;">
 
 ## 👋 &nbsp;Hey there!
 
